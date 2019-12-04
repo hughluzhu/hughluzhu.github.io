@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-## Research Interests
+### Research Interests
 Nano-optoelectronic devices; Photodiode arrays; Near-infrared materials and photodetectors; CMOS image sensors; Nanofabrication; Bioelectronics
 
 
