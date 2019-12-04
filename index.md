@@ -26,6 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+## Research Interests
+Nano-optoelectronic devices; Photodiode arrays; Near-infrared materials and photodetectors; CMOS image sensors; Nanofabrication; Bioelectronics
+
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
