@@ -12,12 +12,12 @@ Associate Professor, School of Microelectronics Science and Technology, Sun Yat-
 
 Email: zhulu5@mail.sysu.edu.cn
 
-## RESEARCH EXPERIENCES
+RESEARCH EXPERIENCES
 Postdoctoral Fellowship, Department of Electrical and Electronic Engineering, The University of Hong Kong, 2019-2020
 
 Postdoctoral Research Associate, Department of Electrical and Electronic Engineering, The University of Hong Kong, 2016-2018 
 
-## EDUCATION BACKGROUND
+EDUCATION BACKGROUND
 Ph.D. Electronic Engineering, Department of Electrical and Electronic Engineering, The University of Hong Kong, 2012-2016
 
 M.Sc. Condensed Matter Physics, Key Laboratory of Luminescence and Optical Information, Ministry of Education, Institute of Optoelectronic Technology, Beijing Jiaotong University, 2009-2012
@@ -33,6 +33,6 @@ B.Sc. Optical Information Science and Technology, Department of Physics, Northwe
 
 
 
-##2019-2016
+2019-2016
 
-##Before 2016
+Before 2016
